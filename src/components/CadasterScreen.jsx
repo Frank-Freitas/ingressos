@@ -9,7 +9,7 @@ export default function CadasterScreen() {
   const [senha, setSenha] = useState("");
 
   return (
-    <div className="border-1 p-10 rounded-2xl w-90 bg-[#FFFFFF] border-[#9E9797] m-4">
+    <div className="border-1 p-10 rounded-2xl w-90 bg-[#FFFFFF] border-[#9E9797]">
       <h2 className="flex justify-center m-2 font-pacifico">Cadastrar</h2>
       <div className="flex justify-center ">
         <form>

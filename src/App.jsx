@@ -1,12 +1,10 @@
-import LoginScreen from "./components/LoginScreen";
-import CadasterScreen from "./components/CadasterScreen";
+import InitialScreen from "./pages/InitialScreen";
 
 function App() {
   return (
     <>
-      <section className="flex">
-        <LoginScreen />
-        <CadasterScreen />
+      <section className="flex h-screen justify-center items-center">
+        <InitialScreen />
       </section>
     </>
   );
