@@ -31,19 +31,22 @@ src/
    ```
 
 
-2. Acesse a pasta e instale as dependências:
+2. Acesse a pasta raiz do projeto:
    ```bash
-   cd SISTEMA-INGRESSOS
+   cd ingressos
+   ```
+
+3. Instale as dependências:
+   ```bash
    npm install
    ```
 
-3. Rode o servidor local:
+4. Rode o servidor local:
    ```bash
    npm run dev
    ```
 
-4. Acesse: [http://localhost:5173](http://localhost:5173)
-
+5. Acesse: [http://localhost:5173](http://localhost:5173)
 
 ## 📄 Licença
 
