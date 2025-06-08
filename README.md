@@ -27,7 +27,7 @@ src/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Frank-Freitas/ingressos#
+   git clone https://github.com/Frank-Freitas/ingressos
    ```
 
 
