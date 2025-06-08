@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:ital,wght@0,100..900;1,100..900&family=Yeon+Sung&display=swap');
+
+@import "tailwindcss";
+
+.space-patterns {
+  @apply p-0 my-2;
+}
+.space-patterns2 {
+  @apply border border-[#9E9797] rounded-sm  flex justify-center bg-[#F5F5F5];
+}
+
+@theme {
+  --font-pacifico: Pacifico;
+  --font-yeon: Yeon Sung;
+  --font-roboto: Roboto;
+
+}
